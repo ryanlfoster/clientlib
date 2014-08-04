@@ -1,5 +1,5 @@
-clientlib
-=========
+AEM Client Librarian clientlib Template
+=======================================
 
 [CITYTECH, Inc.](http://www.citytechinc.com/)
 
