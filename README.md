@@ -2,6 +2,7 @@ AEM Client Librarian clientlib Template
 =======================================
 
 [CITYTECH, Inc.](http://www.citytechinc.com/)
+
 [AEM Client Librarian](https://github.com/Citytechinc/client-librarian)
 
 Overview
