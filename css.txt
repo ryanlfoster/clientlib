@@ -1,2 +1,2 @@
 #base=css
-styles.less
+styles.css
